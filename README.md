@@ -1,3 +1,4 @@
+:shipit:
 <h1 align="center">Hi 👋, I'm Dawid</h1>
 <h3 align="center">A passionate python developer from Poland</h3>
 
