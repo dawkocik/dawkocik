@@ -1,5 +1,5 @@
 <!-- intro image -->
-<p align="center"><img src="./me.gif" alt="Dawid Kocik - generalist developer & GNOME lover"/></p>
+<p align="center"><img src="./dawkocik.gif" alt="Dawid Kocik - generalist developer & GNOME lover"/></p>
 
 <!-- wakatime stats -->
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=dawkocik&theme=dark" alt="Wakatime Stats"/></p>
