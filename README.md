@@ -3,7 +3,7 @@
 
 <!-- wakatime stats -->
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=dawkocik&theme=dark" alt="Wakatime Stats"/></p>
-
+<br/>
 
 ### I love :heart:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
@@ -19,3 +19,6 @@
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?logo=Serverless&logoColor=fff)
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=Debian&logoColor=fff)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?logo=Electron&logoColor=fff)
+
+### I'm listening to :musical_note:
+<img src="https://novatorem-nine-flame.vercel.app/api/spotify" width="336" height="87"/>
