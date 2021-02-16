@@ -1,7 +1,23 @@
-<h1 align="center">Hi 👋, I'm Dawid :shipit:</h1>
-<h3 align="center">A passionate python developer from Poland</h3>
+<!-- intro image -->
+<p align="center"><img src="./me.gif" alt="Dawid Kocik - generalist developer & GNOME lover"/></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dawkocik&label=Profile%20views&color=0e75b6&style=flat" alt="dawkocik" /> </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dawkocik&show_icons=true&locale=en&layout=compact" alt="dawkocik" /></p>
+<!-- wakatime stats -->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=dawkocik&theme=dark" alt="Wakatime Stats"/></p>
 
-<h6 align="center">Did you know that GitHub has emojis? :bowtie: :neckbeard: :octocat: :trollface: :suspect: :hurtrealbad: :feelsgood: :goberserk: :finnadie: :rage1: :rage2: :rage3: :rage4: :godmode:</h6>
+<h3>I love :heart:</h3>
+<table border="0">
+  <tr>
+    <td><img src="https://simpleicons.org/icons/python.svg" width="30" height="30"/></td>
+    <td><img src="https://simpleicons.org/icons/go.svg" width="30" height="30"/></td>
+    <td><img src="https://simpleicons.org/icons/serverless.svg" width="30" height="30"/></td>
+  </tr>
+</table>
+
+<h3>I hate :broken_heart:</h3>
+<table border="0">
+  <tr>
+    <td><img src="https://simpleicons.org/icons/electron.svg" width="30" height="30"/></td>
+    <td><img src="https://simpleicons.org/icons/csharp.svg" width="30" height="30"/></td>
+    <td><img src="https://simpleicons.org/icons/serverless.svg" width="30" height="30"/></td>
+  </tr>
+</table>
