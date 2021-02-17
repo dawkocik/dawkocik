@@ -24,6 +24,7 @@
 [![Discord](https://img.shields.io/badge/-kn%234000-7289DA?logo=Discord&logoColor=fff)](https://discord.com/channels/@me/666598453916467211)
 [![Telegram](https://img.shields.io/badge/-@knuieiey-26A5E4?logo=Telegram&logoColor=fff)](https://web.telegram.org/#/im?p=@knuieiey)
 [![Steam](https://img.shields.io/badge/-knuieiey-000000?logo=Steam&logoColor=fff)](https://steamcommunity.com/id/knuieiey)
+[![LinkedIn](https://img.shields.io/badge/-dawid%2D%2Dkocik-0A66C2?logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/dawid-kocik/)
 [![Mail](https://img.shields.io/badge/-dawkocik@zohomail.eu-C8202B?logo=Mail.ru&logoColor=fff)](mailto://dawkocik@zohomail.eu)
 
 ### :musical_note: I'm currently listening to
@@ -34,5 +35,6 @@ https://shields.io/
 https://github.com/novatorem/novatorem
 https://simpleicons.org/
 https://github.com/anuraghazra/github-readme-stats
-if you want your own icon in shields.io: https://stackoverflow.com/a/41472017
+for special characters in shields.io names: https://cachefly.zendesk.com/hc/en-us/articles/215068626-How-to-format-URLs-that-have-special-characters-in-the-filename
+custom shields.io icon: https://stackoverflow.com/a/41472017
 happy readme making! -->
