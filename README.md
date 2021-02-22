@@ -22,11 +22,11 @@
 ![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-313131?logo=Unreal-Engine&logoColor=fff)
 
 ### :speech_balloon: Reach me
-[![Discord](https://img.shields.io/badge/-kn%234000-7289DA?logo=Discord&logoColor=fff)](https://discord.com/channels/@me/666598453916467211)
-[![Telegram](https://img.shields.io/badge/-@knuieiey-26A5E4?logo=Telegram&logoColor=fff)](https://web.telegram.org/#/im?p=@knuieiey)
-[![Steam](https://img.shields.io/badge/-knuieiey-000000?logo=Steam&logoColor=fff)](https://steamcommunity.com/id/knuieiey)
-[![LinkedIn](https://img.shields.io/badge/-dawid%2D%2Dkocik-0A66C2?logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/dawid-kocik/)
-[![Mail](https://img.shields.io/badge/-dawkocik@zohomail.eu-C8202B?logo=Mail.ru&logoColor=fff)](mailto://dawkocik@zohomail.eu)
+[![kn#4000](https://img.shields.io/badge/-kn%234000-7289DA?logo=Discord&logoColor=fff)](https://discord.com/channels/@me/666598453916467211)
+[![@knuieiey](https://img.shields.io/badge/-@knuieiey-26A5E4?logo=Telegram&logoColor=fff)](https://web.telegram.org/#/im?p=@knuieiey)
+[![steam/id/knuieiey](https://img.shields.io/badge/-knuieiey-000000?logo=Steam&logoColor=fff)](https://steamcommunity.com/id/knuieiey)
+[![in/dawid-kocik](https://img.shields.io/badge/-dawid%2D%2Dkocik-0A66C2?logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/dawid-kocik/)
+[![dawkocik@zohomail.eu](https://img.shields.io/badge/-dawkocik@zohomail.eu-C8202B?logo=Mail.ru&logoColor=fff)](mailto://dawkocik@zohomail.eu)
 
 ### :musical_note: I'm currently listening to
 <img src="https://novatorem-nine-flame.vercel.app/api/spotify" width="336" height="87"/>
