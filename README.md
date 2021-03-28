@@ -11,7 +11,6 @@
 ![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?logo=WebAssembly&logoColor=fff)
 ![Arch](https://img.shields.io/badge/-Arch-1793D1?logo=Arch-Linux&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=TypeScript&logoColor=fff)
-![GNOME](https://img.shields.io/badge/-GNOME-4A86CF?logo=GNOME&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=Visual-Studio-Code&logoColor=fff)
 
 ### :broken_heart: I hate
