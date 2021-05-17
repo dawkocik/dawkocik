@@ -1,5 +1,5 @@
 <!-- intro image - dm me on discord if you want an image like this -->
-<p align="center"><img src="./dawkocik.gif" alt="Dawid Kocik - generalist developer & GNOME lover"/></p>
+<p align="left"><img src="./banner.gif" alt="Dawid Kocik - generalist developer & GNOME lover"/></p>
 
 <!-- wakatime stats -->
 <p align="center"><a href="https://wakatime.com/@dawkocik" target="_blank"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=dawkocik&theme=dark&layout=compact&hide_border=true" alt="Wakatime Stats"/></a></p>
