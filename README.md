@@ -1,4 +1,4 @@
-<!-- intro image - dm me on discord if you want an image like this -->
+<!-- GIF made by Lemat Works - https://lematworks.tumblr.com/post/160457529982/produced-by-lemat-works-twinkle-night3-15-17 -->
 <p align="center"><img src="./dawkocik.gif" alt="Dawid Kocik - generalist developer & GNOME lover"/></p>
 
 <!-- wakatime stats -->
