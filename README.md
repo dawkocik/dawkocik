@@ -13,20 +13,13 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFA000?logo=firebase&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=Visual-Studio-Code&logoColor=fff)
 
-### :broken_heart: I hate
-![C#](https://img.shields.io/badge/-C%23-239120?logo=C-Sharp&logoColor=fff)
-![Electron](https://img.shields.io/badge/-Electron-47848F?logo=Electron&logoColor=fff)
-![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-313131?logo=Unreal-Engine&logoColor=fff)
 
 ### :speech_balloon: Reach me
-[![kn#4000](https://img.shields.io/badge/-kn%234000-7289DA?logo=Discord&logoColor=fff)](https://discord.com/channels/@me/666598453916467211)
+[![@knuieiey](https://img.shields.io/badge/-kn%234000-7289DA?logo=Discord&logoColor=fff)](https://discord.com/channels/@me/666598453916467211)
 [![@knuieiey](https://img.shields.io/badge/-@knuieiey-26A5E4?logo=Telegram&logoColor=fff)](https://web.telegram.org/#/im?p=@knuieiey)
 [![steam/id/knuieiey](https://img.shields.io/badge/-knuieiey-000000?logo=Steam&logoColor=fff)](https://steamcommunity.com/id/knuieiey)
 [![in/dawid-kocik](https://img.shields.io/badge/-dawid%2D%2Dkocik-0A66C2?logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/dawid-kocik/)
-[![dawkocik@gmail.com](https://img.shields.io/badge/-dawkocik@zohomail.eu-C8202B?logo=Mail.ru&logoColor=fff)](mailto://dawkocik@gmail.com)
-
-### :musical_note: I'm currently listening to
-<img src="https://novatorem-nine-flame.vercel.app/api/spotify" width="336" height="87"/>
+[![dawkocik@gmail.com](https://img.shields.io/badge/-dawkocik@gmail.com-C8202B?logo=Mail.ru&logoColor=fff)](mailto://dawkocik@gmail.com)
 
 <!-- resources used:
 https://shields.io/
