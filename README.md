@@ -15,7 +15,7 @@
 
 
 ### :speech_balloon: Reach me
-[![@knuieiey](https://img.shields.io/badge/-kn%234000-7289DA?logo=Discord&logoColor=fff)](https://discord.com/channels/@me/666598453916467211)
+[![@knuieiey](https://img.shields.io/badge/-@knuieiey-7289DA?logo=Discord&logoColor=fff)](https://discord.com/channels/@me/666598453916467211)
 [![@knuieiey](https://img.shields.io/badge/-@knuieiey-26A5E4?logo=Telegram&logoColor=fff)](https://web.telegram.org/#/im?p=@knuieiey)
 [![steam/id/knuieiey](https://img.shields.io/badge/-knuieiey-000000?logo=Steam&logoColor=fff)](https://steamcommunity.com/id/knuieiey)
 [![in/dawid-kocik](https://img.shields.io/badge/-dawid%2D%2Dkocik-0A66C2?logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/dawid-kocik/)
